@@ -1,5 +1,5 @@
 
-setwd("C:/Users/G/Desktop/NBA R Code/NBA R Code")
+
 
 library(rvest)
 
